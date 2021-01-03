@@ -1,5 +1,6 @@
 # Basic implementations for C
 
+Tutorial followed for guidance: https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 - 2d arrays nested loops
 - Arrays
@@ -24,6 +25,3 @@
 - While Loops
 - Working with files
 - Working with numbers
-
-
-Tutorial followed for guidance: https://www.youtube.com/watch?v=KJgsSFOSQv0
